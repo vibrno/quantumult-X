@@ -2,12 +2,11 @@
 HOST-SUFFIX,mexcsensors.com
 HOST-KEYWORD,mexcglobal
 HOST-KEYWORD,mexc
-HOST:futures.greentreeone.com
-Host:app-analytics-services.com
-Host:wridbx-skadsdkless.appsflyersdk.com
-Host:wridbx-launches.appsflyersdk.com
-Host: futures.greentreeone.com
-Host: futures.365huo.xyz
-Host:aliyuncs.com
-Host:amazonaws.com
-Host:mocortech.com
+HOST-SUFFIX,futures.greentreeone.com
+HOST-SUFFIX,app-analytics-services.com
+HOST-SUFFIX,appsflyersdk.com
+HOST-SUFFIX,greentreeone.com
+HOST-KEYWORD,365huo
+HOST-SUFFIX,aliyuncs.com
+HOST-SUFFIX,amazonaws.com
+HOST-SUFFIX,mocortech.com
