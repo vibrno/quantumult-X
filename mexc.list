@@ -1,12 +1,13 @@
 # > mexc
-HOST-KEYWORD,mexcsensors
+HOST-SUFFIX,mexcsensors.com
 HOST-KEYWORD,mexcglobal
 HOST-KEYWORD,mexc
-HOST-KEYWORD,365huo
-HOST-KEYWORD,greentreeone
-Host: app-analytics-services.com
-Host: wridbx-skadsdkless.appsflyersdk.com
-Host: www.mexcsensors.com
-Host: molor-app-logs-default.ap-southeast-1.log.aliyuncs.com
+HOST:futures.greentreeone.com
+Host:app-analytics-services.com
+Host:wridbx-skadsdkless.appsflyersdk.com
+Host:wridbx-launches.appsflyersdk.com
 Host: futures.greentreeone.com
 Host: futures.365huo.xyz
+Host:aliyuncs.com
+Host:amazonaws.com
+Host:mocortech.com
