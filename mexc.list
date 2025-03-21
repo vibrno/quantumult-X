@@ -1,4 +1,4 @@
 # > mexc
-host,mexcsensors.com
-host,mexcglobal
-host,mexc.com
+HOST-KEYWORD,mexcsensors.com
+HOST-KEYWORD,mexcglobal
+HOST-KEYWORD,mexc.com
