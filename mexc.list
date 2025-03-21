@@ -1,4 +1,4 @@
 # > mexc
-host mexcsensors.com
-host mexcglobal
-host mexc.com
+host,mexcsensors.com
+host,mexcglobal
+host,mexc.com
